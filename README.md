@@ -1,1 +1,2 @@
-# minmax
+# minmax <br />
+Implementing generic MinMax algorithm
